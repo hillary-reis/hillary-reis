@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hillaryreis2002/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hlryrs/)
 
-## Hi there! ✌🏻
+## Hi there! 👋👋
 
 My name is Hillary and I'm currently graduating in System Analysis and Development. 💻
 
